@@ -34,7 +34,7 @@ Perform following reuqired libraries to run the code <br>
 # Project Status
   Project Status- Completed.
 # FAQs
- * Question 1
+ * Which environment to choose?
  * question 2
  * Question 3
 # Author & Contributions
