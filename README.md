@@ -44,7 +44,7 @@ Perform following reuqired libraries to run the code <br>
 ```
 # FAQs❓
  * Which environment to choose?
-   - It is recommended to use Jupyter NOtebook.
+   - It is recommended to use Jupyter Notebook.
 
 # Author & Contributions
 - Avinaba Ghosh
