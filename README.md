@@ -50,4 +50,5 @@ The following libraries are required to run the code<br>
    - It is recommended to use Jupyter Notebook.
 
 # Author & Contributions
-- Avinaba Ghosh, Gautam Maurya
+- Avinaba Ghosh
+- Gautam Maurya
