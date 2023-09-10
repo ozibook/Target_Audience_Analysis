@@ -23,6 +23,9 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 #### 4. Modified like scraper_with_exception Code
  - This code performs the webscrapping of profiles who liked the post. This is a updated code with exception handling.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/modified%20like%20scraper_with_exceptionHandling.ipynb)
+#### 5. TA_Analysis Code
+ -  Used for profile categorization and visualization
+ -  [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/TA_Analysis.ipynb)
 
 # Installation Guide👨‍💻
 Perform following reuqired libraries to run the code <br>
