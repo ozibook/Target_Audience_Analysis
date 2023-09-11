@@ -6,6 +6,8 @@ With this invaluable data at our fingertips, We’ll categorize the profiles int
 Once we've revealed the secrets, we'll get an idea of which kind of audiences are mostly attracted to which kind of posts, so that we can customize our future posts according to this information.
 Together, we will unlock the full potential of LinkedIn and elevate Ozigen's online presence to new heights!
 
+[Go to Notion page↗️](https://docs.google.com/document/d/1lpqrSfYIm4M5RGakFS-gzObmP9jVybTxDKrgsuAAelc/edit#heading=h.vcqhms74oo6)
+
 
 ### Task Objective🎯
 The Objective task is to get an idea of which kind of audiences are mostly attracted to which kind of posts (on the basis of theme) so that we can customize our future posts according to this information.
