@@ -23,7 +23,7 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - This code performs web scraping of profiles who commented on the post. It returns the **name of the user** and **profile url**.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Updated_Commenters_Scraping.ipynb)
 
-#### 4. Code Explanation
+#### Code Explanation
  - To install the packages silently
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/96fabda5-91cc-4177-8e64-93380a49cf1a)
 
@@ -50,7 +50,7 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 
 
 
-#### 5. Modified like scraper_with_exception Code
+#### 4. Modified like scraper_with_exception Code
  - This code performs the web scraping of profiles who liked the post. This is an updated code with exception handling. It returns the **name of the user** and **profile url**.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/modified%20like%20scraper_with_exceptionHandling.ipynb)
 #### 5. TA_Analysis Code
