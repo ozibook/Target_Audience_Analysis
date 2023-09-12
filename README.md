@@ -47,18 +47,97 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 #### 2. No_likes_comments_repost_caption Code
  - This code gives the caption, number of likes, comments of the posts when provided with the **links** of the posts as a **list**.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/No_likes_comments_repost_caption.ipynb)
+<details>
+ <summary>Code Explanation</summary>
+ 
+ - User Input
+   
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/ab5e7715-7d5f-44a0-a811-88daf06a5e35)
+
+ - Storing URLS
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/8b3c6dce-ebb3-4070-a8b7-85fe8a88c34e)
+
+ - Extracting Details
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/2827cbb9-8316-4113-92ce-f8538ff2f4de)
+
+ - Storing data to excel
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/aa56db4a-9c62-4195-abca-9fa4d663a780)
+
+</details>
+
 #### 3. Updated_Commenters_Scraping Code
  - This code performs web scraping of profiles who commented on the post. It returns the **name of the user** and **profile url**.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Updated_Commenters_Scraping.ipynb)
+<details>
+ <summary>Code Explanation</summary>
+ 
+ - Importing Libraries and taking user input
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/a1804a92-e6e2-471b-ae5c-5407c43bb5c8)
 
+- Extracting comments and replies
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/3d9d05ea-6ca3-4868-a5a4-c0bfa455092c)
+
+- Detailed comment extraction and saving to excel file
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/b9e0cc00-d758-468b-ae58-21f40be68e2e)
+
+</details>
  
 
 #### 4. Modified like scraper_with_exception Code
  - This code performs the web scraping of profiles who liked the post. This is an updated code with exception handling. It returns the **name of the user** and **profile url**.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/modified%20like%20scraper_with_exceptionHandling.ipynb)
+ <details>
+ <summary>Code Explanation</summary>
+  
+ - User Input
+
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/33c0f58e-18d6-4bf5-a568-3ceb1b0510fa)
+
+ - Initializing browser and driver
+ ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/63ab58cf-73b5-473a-a745-2f9e7afdcca8)
+
+- Extraction of likes and other data with try-execption block
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/3bf9eaf6-64d9-4d71-b8c1-b36d9ec5b9bb)
+
+- Storing data to excel file
+
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/9851eec8-532b-4754-a61f-c04f7a12ae4b)
+
+ </details>
+ 
 #### 5. TA_Analysis Code
  -  Used for profile categorization and visualization
  -  [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/TA_Analysis.ipynb)
+
+<details>
+ <summary>Code Explanation</summary>
+
+ - Importing libaries and data
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/00358576-a880-4220-b18d-a32138297720)
+
+- Creating a dictionary for Categorical Keywords in Designation
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/24b5fb19-0ce1-4303-a77e-58eda7ea2ee7)
+
+- Checking for duplicates
+  
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/9f0aca13-0de3-49b8-af4e-c5fb94edcbe3)
+
+- Assigning the category based on the keywords
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/9fbfddb2-e7c4-4ec9-ab30-6abec2d26ab4)
+
+- Assigning category based on skills
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/fc26bed9-d403-48fb-b606-f8e840bba927)
+
+- Data Preprocessing
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/8f36a19c-9f84-4e9b-bc08-75b522efda40)
+
+- Visualizing through grouped data
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/73be8757-bd4f-4106-8afa-573d356778ca)
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/4e34e773-e61a-4447-9324-c628da9e50d7)
+![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/22701eec-9ce4-4cfc-ba6a-1b882caaf469)
+
+
+</details>
 
 # Installation Guide👨‍💻
 The following libraries are required to run the code<br>
