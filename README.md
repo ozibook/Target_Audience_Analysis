@@ -16,16 +16,8 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 #### 1. Modified_LinkedIN_Profile_Scrapper Code
  - This code performs the web scrapping of LinkedIn profiles.
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Modified_Linkedin_Profile_Scraper_byAvinaba.ipynb)
-#### 2. No_likes_comments_repost_caption Code
- - This code gives the caption, number of likes, comments of the posts when provided with the **links** of the posts as a **list**.
- - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/No_likes_comments_repost_caption.ipynb)
-#### 3. Updated_Commenters_Scraping Code
- - This code performs web scraping of profiles who commented on the post. It returns the **name of the user** and **profile url**.
- - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Updated_Commenters_Scraping.ipynb)
-
 <details>
 <summary>Code Explanation</summary>
-<br>
 - To install the packages silently
  
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/96fabda5-91cc-4177-8e64-93380a49cf1a)
@@ -50,8 +42,15 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 
  - Mention how much links from start you want to comment out
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/093dbc0c-288c-436c-913d-fba2a158a6d3)
-
 </details>
+
+#### 2. No_likes_comments_repost_caption Code
+ - This code gives the caption, number of likes, comments of the posts when provided with the **links** of the posts as a **list**.
+ - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/No_likes_comments_repost_caption.ipynb)
+#### 3. Updated_Commenters_Scraping Code
+ - This code performs web scraping of profiles who commented on the post. It returns the **name of the user** and **profile url**.
+ - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Updated_Commenters_Scraping.ipynb)
+
  
 
 #### 4. Modified like scraper_with_exception Code
