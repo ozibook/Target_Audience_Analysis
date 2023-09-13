@@ -37,7 +37,7 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - Run for log in with spoof account
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/b2e9347c-4072-447d-9d9d-52aa49893a39)
    
- - Mention the chunk number to run the data extraction
+ - Run this cell if error occurs during code execution
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/4a73a732-07d3-4601-8730-8113c8fce108)
 
  - Mention how much links from start you want to comment out
