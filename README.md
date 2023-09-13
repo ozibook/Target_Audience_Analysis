@@ -18,6 +18,7 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Modified_Linkedin_Profile_Scraper_byAvinaba.ipynb)
 <details>
 <summary>Code Explanation</summary>
+ 
 - To install the packages silently
  
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/96fabda5-91cc-4177-8e64-93380a49cf1a)
