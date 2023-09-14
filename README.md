@@ -19,6 +19,31 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 <details>
 <summary>Code Explanation</summary>
  
+ **How to use:** </br>
+Setup:
+--> Ensure you have Python installed.
+
+--> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+
+**Run the Script:**</br>
+--> Execute the provided script in your terminal or IDE.
+
+**Input Excel file:**</br>
+--> Place the excel file link in the required cell
+
+**Input no. of links**</br>
+--> Enter the number of links want to scrape at once when prompted
+--> Login to linkedin by giving username and password when prompted
+**Wait:**</br>
+--> The script will automatically visit each profile, scrape the desired information, and store it in memory.
+
+**Check the Output:**</br>
+--> Once the script completes, data will be stored to an excel sheet(check last cell).
+
+**Done!:**</br>
+--> Review the scraped data in the Excel file.
+
+--> If any data is not present, it will leave a blank space in that column.
 - To install the packages silently
  
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/96fabda5-91cc-4177-8e64-93380a49cf1a)
@@ -50,7 +75,29 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/No_likes_comments_repost_caption.ipynb)
 <details>
  <summary>Code Explanation</summary>
- 
+
+ **How to use:** </br>
+Setup:
+--> Ensure you have Python installed.
+
+--> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+
+**Run the Script:**</br>
+--> Execute the provided script in your terminal or IDE.
+
+**Input **</br>
+--> provide Linkedin username and password when prompted
+--> Store necessary links required for scraping.
+
+**Wait:**</br>
+--> The script will automatically visit each profile, scrape the desired information, and store it in memory.
+
+**Check the Output:**</br>
+--> Once the script completes, data will be stored to an excel sheet(check last cell).
+
+**Done!:**</br>
+--> Review the scraped data in the Excel file.
+
  - User Input
    
  ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/ab5e7715-7d5f-44a0-a811-88daf06a5e35)
@@ -71,7 +118,27 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/Updated_Commenters_Scraping.ipynb)
 <details>
  <summary>Code Explanation</summary>
- 
+  **How to use:** </br>
+  Setup:
+  --> Ensure you have Python installed.
+  
+  --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+  
+  **Run the Script:**</br>
+  --> Execute the provided script in your terminal or IDE.
+  
+  **Input **</br>
+  --> provide Linkedin username and password when prompted
+  --> Store necessary links required for scraping.
+  
+  **Wait:**</br>
+  --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
+  
+  **Check the Output:**</br>
+  --> Once the script completes, data will be stored to an excel sheet(check last cell).
+  
+  **Done!:**</br>
+  --> Review the scraped data in the Excel file.
  - Importing Libraries and taking user input
  ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/a1804a92-e6e2-471b-ae5c-5407c43bb5c8)
 
@@ -89,7 +156,27 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/modified%20like%20scraper_with_exceptionHandling.ipynb)
  <details>
  <summary>Code Explanation</summary>
+   **How to use:** </br>
+  Setup:
+  --> Ensure you have Python installed.
   
+  --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
+  
+  **Run the Script:**</br>
+  --> Execute the provided script in your terminal or IDE.
+  
+  **Input **</br>
+  --> provide Linkedin username and password when prompted
+  --> Store post link required for scraping.
+  
+  **Wait:**</br>
+  --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
+  
+  **Check the Output:**</br>
+  --> Once the script completes, data will be stored to an excel sheet(check last cell).
+  
+  **Done!:**</br>
+  --> Review the scraped data in the Excel file.
  - User Input
 
  ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/33c0f58e-18d6-4bf5-a568-3ceb1b0510fa)
@@ -112,7 +199,26 @@ The Objective task is to get an idea of which kind of audiences are mostly attra
 
 <details>
  <summary>Code Explanation</summary>
-
+  **How to use:** </br>
+  Setup:
+  --> Ensure you have Python installed.
+  
+  --> Install the required libraries using pip (pandas) .
+  
+  **Run the Script:**</br>
+  --> Execute the provided code in your terminal or IDE.
+  
+  **Input **</br>
+  --> provide excel sheet link
+  
+  **Wait:**</br>
+  --> The script will start executing and will take a while.
+  
+  **Check the Output:**</br>
+  --> After execution, different types of visualizations can be found.
+  
+  **Done!:**</br>
+  --> Review the scraped data in the Excel file.
  - Importing libaries and data
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/00358576-a880-4220-b18d-a32138297720)
 
