@@ -85,17 +85,17 @@ Setup:
 **Run the Script:**</br>
 --> Execute the provided script in your terminal or IDE.
 
-**Input **</br>
+**Input**</br>
 --> provide Linkedin username and password when prompted
 --> Store necessary links required for scraping.
 
-**Wait:**</br>
+**Wait:** </br>
 --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
 
-**Check the Output:**</br>
+**Check the Output:** </br>
 --> Once the script completes, data will be stored to an excel sheet(check last cell).
 
-**Done!:**</br>
+**Done!:** </br>
 --> Review the scraped data in the Excel file.
 
  - User Input
@@ -127,17 +127,17 @@ Setup:
   **Run the Script:**</br>
   --> Execute the provided script in your terminal or IDE.
   
-  **Input **</br>
+  **Input**</br>
   --> provide Linkedin username and password when prompted
   --> Store necessary links required for scraping.
   
-  **Wait:**</br>
+  **Wait:** </br>
   --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
   
-  **Check the Output:**</br>
+  **Check the Output:** </br>
   --> Once the script completes, data will be stored to an excel sheet(check last cell).
   
-  **Done!:**</br>
+  **Done!:** </br>
   --> Review the scraped data in the Excel file.
  - Importing Libraries and taking user input
  ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/a1804a92-e6e2-471b-ae5c-5407c43bb5c8)
@@ -156,26 +156,27 @@ Setup:
  - [Go to File↗️](https://github.com/ozibook/Target_Audience_Analysis/blob/main/modified%20like%20scraper_with_exceptionHandling.ipynb)
  <details>
  <summary>Code Explanation</summary>
+  
    **How to use:** </br>
   Setup:
   --> Ensure you have Python installed.
   
   --> Install the required libraries using pip (selenium, pandas, webdriver_manager, etc.).
   
-  **Run the Script:**</br>
+  **Run the Script:** </br>
   --> Execute the provided script in your terminal or IDE.
   
-  **Input **</br>
+  **Input**</br>
   --> provide Linkedin username and password when prompted
   --> Store post link required for scraping.
   
-  **Wait:**</br>
+  **Wait:** </br>
   --> The script will automatically visit each profile, scrape the desired information, and store it in memory.
   
-  **Check the Output:**</br>
+  **Check the Output:** </br>
   --> Once the script completes, data will be stored to an excel sheet(check last cell).
   
-  **Done!:**</br>
+  **Done!:** </br>
   --> Review the scraped data in the Excel file.
  - User Input
 
@@ -199,25 +200,26 @@ Setup:
 
 <details>
  <summary>Code Explanation</summary>
+ 
   **How to use:** </br>
   Setup:
   --> Ensure you have Python installed.
   
   --> Install the required libraries using pip (pandas) .
   
-  **Run the Script:**</br>
+  **Run the Script:** </br>
   --> Execute the provided code in your terminal or IDE.
   
-  **Input **</br>
+  **Input**</br>
   --> provide excel sheet link
   
-  **Wait:**</br>
+  **Wait:** </br>
   --> The script will start executing and will take a while.
   
-  **Check the Output:**</br>
+  **Check the Output:** </br>
   --> After execution, different types of visualizations can be found.
   
-  **Done!:**</br>
+  **Done!:** </br>
   --> Review the scraped data in the Excel file.
  - Importing libaries and data
 ![image](https://github.com/ozibook/Target_Audience_Analysis/assets/144370840/00358576-a880-4220-b18d-a32138297720)
