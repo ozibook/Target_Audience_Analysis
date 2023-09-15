@@ -4,7 +4,6 @@ Currently we are facing lack of Customers and Audience on our LinkedIn  Page. Th
 We’ll use the profile URLs of likers and commenters, for scraping profile data like (Name, Title, Followers, Connection, Experience, Current/Last Designation, Certifications, Skills, and Education) by using the profile scraper code. We can then make a copy of this profile data, and store this data along with the posts.
 With this invaluable data at our fingertips, we’ll categorize the profiles into 8-10 different categories on the basis of the skills column. Our mission is to uncover potential clients!
 Once we've revealed the secrets, we'll get an idea of which kind of audiences are mostly attracted to which kind of posts, so that we can customize our future posts according to this information.
-Together, we will unlock the full potential of LinkedIn and elevate Ozigen's online presence to new heights!
 
 [Go to the notion page for detail understanding of the task↗️](https://docs.google.com/document/d/1lpqrSfYIm4M5RGakFS-gzObmP9jVybTxDKrgsuAAelc/edit#heading=h.vcqhms74oo6)
 
