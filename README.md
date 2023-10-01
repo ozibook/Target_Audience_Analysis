@@ -248,6 +248,10 @@ Setup:
 
 </details>
 
+### 6. Engagement rate calculator code
+- Used for calculating engagement rate for the latest 16 linkedin posts of a profile
+- [Go to file↗️](https://github.com/andrew-geeks/Target_Audience_Analysis/blob/main/engagement_rate_calculator.ipynb)
+
 ## Installation Guide👨‍💻
 The following libraries are required to run the code<br>
 1. Install Requests<br>
@@ -275,3 +279,4 @@ The following libraries are required to run the code<br>
 # Author & Contributions
 - Avinaba Ghosh
 - Gautam Maurya
+- Andrew George Issac
